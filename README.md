@@ -1,9 +1,36 @@
-# Text analysis
-In this project users’ comments from the charitable organization were analyzed, the most frequent words were identified and visualized 
-Краткое саммари решения
-- Были устранены ошибки в документе и обработанные данные были представлены в виде таблицы
-- Проведен препроцессинг текста
-- Слова в тексте были токенезированы и лемматизированы
-- Были убраны стоп слова
-- Найдены частотности слов и определен топ-100
-- Результат был визуализирован
+## Text analysis
+
+
+## Содержание 
+
+| Название | Содержание | 
+|----------------|----------------|
+| crypto_clusterization.ipynb | Notebook (formating .ipynb) with a detailed description of the project |
+| stocks_data.html | Data with Top Cryptos by Market Cap (by 09/07/2022) [1] |
+| stocks.py | Functions |
+| requirements.txt | Libraries |
+
+
+## Описание
+
+В работе были проанализированы комментарии благотворительной организации, были выделены и визуализированы наиболее используемые слова 
+
+
+## Дополнительно
+
+###                                                                   Зависимости
+
+
+Для настройки необходимых пакетов python для скрипта введите в командной строке:
+  > pip install -r "requirements.txt"
+
+  
+
+###                                                                    Контакты
+
+
+  **Telegram**: @sophi_nikol\
+  **VK**: https://vk.com/nik_sophi \
+  **Email**: nikolenko.sofiya@list.ru 
+  
+  [1]- https://finance.yahoo.com/u/yahoo-finance/watchlists/crypto-top-market-cap/
