@@ -5,7 +5,7 @@
 
 | Название | Содержание | 
 |----------------|----------------|
-| crypto_clusterization.ipynb | Пример работы в Jupyter Notebook |
+| Sirius_done_new.ipynb | Пример работы в Jupyter Notebook |
 
 
 ## Описание
