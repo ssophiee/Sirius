@@ -21,7 +21,7 @@
 - Результат был визуализирован
 
 ![image](https://user-images.githubusercontent.com/75318962/182834956-a1e719db-a2b0-406e-89a8-1d436605b232.png)
-
+![image](https://user-images.githubusercontent.com/75318962/182835181-3893873e-6ed1-4dff-b065-7ff3a276877e.png)
 
 
 ## Дополнительно
