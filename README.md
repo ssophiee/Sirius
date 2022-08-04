@@ -33,4 +33,3 @@
   **VK**: https://vk.com/nik_sophi \
   **Email**: nikolenko.sofiya@list.ru 
   
-  [1]- https://finance.yahoo.com/u/yahoo-finance/watchlists/crypto-top-market-cap/
